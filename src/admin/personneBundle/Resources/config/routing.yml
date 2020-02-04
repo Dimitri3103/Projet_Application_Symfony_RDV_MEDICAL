@@ -1,0 +1,17 @@
+rdv:
+    path:     /rdv
+    defaults: { _controller: adminpersonneBundle:rdv:rdv }
+
+home:
+    path:     /home
+    defaults: { _controller: adminpersonneBundle:home:home }
+
+contact:
+    path:     /contact
+    defaults: { _controller: adminpersonneBundle:page_contact:contact }
+
+services_1:
+    path:     /services
+    defaults: { _controller: adminpersonneBundle:services:services }
+
+

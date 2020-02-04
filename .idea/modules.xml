@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pat_Med.iml" filepath="$PROJECT_DIR$/.idea/Pat_Med.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ult/.idea/ult.iml" filepath="$PROJECT_DIR$/../ult/.idea/ult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ultmanagerSystem/.idea/ultmanagerSystem.iml" filepath="$PROJECT_DIR$/../ultmanagerSystem/.idea/ultmanagerSystem.iml" />
+    </modules>
+  </component>
+</project>

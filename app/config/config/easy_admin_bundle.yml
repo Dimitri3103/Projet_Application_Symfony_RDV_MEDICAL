@@ -1,0 +1,6 @@
+easy_admin:
+  entities:
+    medecin:
+      class: admin\personneBundle\Entity\medecin
+    rdv:
+      class: admin\personneBundle\Entity\rdv
